@@ -13,11 +13,12 @@ This project is a simple example of how to consume the Keycloak Admin API using 
 1. Clone the project
 2. Run the Keycloak Server
 3. Create a new client in the Keycloak Admin Console
-4. Update the `application.properties` file with the client credentials
+4. Or else you can simply import the client file stored under src/main/resources/keycloak-client-export
+5. Update the `application.properties` file with the client credentials
 
 ![](screen_2.png)
 
-5. Run the project
+6. Run the project
 
 ### Client Service Account Roles
 
